@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone Android Pro",
+    "price": "2999 DH",
+    "image": "images/phone.png",
+    "desc": "128 Go, 8 Go RAM",
+    "category": "phones"
+  },
+  {
+    "id": 2,
+    "name": "Ordinateur Portable Gamer",
+    "price": "8999 DH",
+    "image": "images/pc.jpg",
+    "desc": "Intel i7, 16 Go RAM",
+    "category": "laptops"
+  },
+  {
+    "id": 3,
+    "name": "Smartwatch Sport",
+    "price": "999 DH",
+    "image": "images/watch.jpg",
+    "desc": "Étanche, GPS",
+    "category": "watch"
+  }
+]
